@@ -16,7 +16,7 @@
     {
     "name": "wetgeving",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Wetgeving-VOC.eap",
     "diagram": "OSLO-Wetgeving",
     "template": "wetgeving-voc.j2",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
