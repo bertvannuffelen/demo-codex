@@ -1,0 +1,16 @@
+{
+  "name": "wetgeving",
+  "type": "voc",
+  "eap": "OSLO-Wetgeving-VOC.eap",
+  "diagram": "OSLO-Wetgeving",
+  "template": "wetgeving-voc.j2",
+  "title": "Wetgeving",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "niet-bepaald",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Wetgeving",
+  "config": "config/config-voc.json",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}

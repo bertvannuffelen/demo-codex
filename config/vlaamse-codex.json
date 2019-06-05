@@ -1,0 +1,16 @@
+{
+  "name": "vlaamse-codex",
+  "type": "ap",
+  "eap": "OSLO-Vlaamse-Codex-AP.eap",
+  "diagram": "Applicatieprofiel_Vlaamse_Codex",
+  "template": "vlaamse-codex-ap.j2",
+  "title": "Vlaamse Codex",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "07-02-2018",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "VlaamseCodex",
+  "config": "config/config-ap.json",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}
